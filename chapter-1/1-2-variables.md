@@ -147,4 +147,4 @@ print(type(python))
 
 نوشته شده با :heart: توسط [Mohammadreza Amani](https://github.com/MohammadrezaAmani)
     
-[قبلی](https://github.com/MohammadrezaAmani/PythonMag/blob/main/chapter-1/1-1-Hello-world.md) | [بعدی]()
+[قبلی](https://github.com/MohammadrezaAmani/PythonMag/blob/main/chapter-1/1-1-Hello-world.md) | [بعدی](./chapter-1/1-3-numbers.md)
