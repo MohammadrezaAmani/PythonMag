@@ -6,7 +6,7 @@
 - ۰-۱: نصب پایتون و ادیتور (Installing python and editor)
 --------------------------------------------------------------------------
 - ۱-۱: [هلو، ورد! (Hello, World!)](./chapter-1/1-1-Hello-world.md)
-- ۱-۲: متغییرها (Variables)
+- ۱-۲: [متغییرها (Variables)](./chapter-1/1-2-variables.md)
 - ۱-۳: اعداد (Numbers)
 - ۱-۴: رشته‌ها (Strings)
 - ۱-۵: درست و نادرست (Boleans)
