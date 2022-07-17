@@ -40,6 +40,7 @@
     - json
     - Asyncio 
     - sqlite3
+    - selenium
     - Numpy
     - Pandas
     - SymPy
