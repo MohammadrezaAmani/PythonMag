@@ -3,12 +3,64 @@
 پس با من، یعنی محمدرضا همراه باشید. ^^
 
 فهرست مطالب:
+- ۰-۱: نصب پایتون و ادیتور (Installing python and editor)
 - ۱-۱: هلو، ورد! (Hello, World!)
 - ۱-۲: متغییرها (Variables)
 - ۱-۳: اعداد (Numbers)
+- ۱-۴: رشته‌ها (Strings)
+- ۱-۵: درست و نادرست (Boleans)
 - ۱-۴ عملگرها (operators)
 - ۱-۴: تغییر نوع متغییر (Data Casting)
 - ۱-۵: ورودی گرفتن (input)
-- ۱-۶ لیست‌ها (lists)
+- ۱-۶: لیست‌ها (lists)
 - ۱-۷: تاپل‌ها و مجموعه‌ها (tuple and set)
-- ۱-۷: 
+- ۱-۷: دیکشنری (Dictionry) 
+- ۱-۸: ورودی‌ها (input)
+- ۱-۹: شرط (if-else-switch) 
+- ۱-۱۰: حلقه‌ها (Loops) 
+- ۱-۱۱: توابع (Functions)
+- ۱-۱۲: توابع بازگشتی (Recursive Functions) 
+- ۱-۱۳: کار با فایل (Files) 
+- ۱-۱۴: برطرف کردن خطاها (Error handling)
+- ۱-۱۴: شی گرایی (OOP) 
+- ۱-۱۵: ارث‌بری (Inheritance) 
+- ۱-۱۶: مپ، لامبدا و زیپ (Map, lamba, zip) 
+- ۱-۱۷: ایتریتورها و جنریتورها (Itrators and Genrators)
+- ۱-۱۷: ماژول‌ها (Modules)
+- ۱-۱۹: نصب بسته (pip) 
+- ۱-۲۰: کتاب‌خانه‌ها (libraries) 
+    - Math
+    - os
+    - random
+    - time and datetime
+    - pillow
+    - Jupyter
+    - requests 
+    - json
+    - Asyncio 
+    - sqlite3
+    - Numpy
+    - Pandas
+    - SymPy
+    - quikda
+    - Scikit-learn
+    - OpenCV
+    - Tensorflow
+    - pytorch 
+    - keras
+    - Socket
+    - django
+    - django-rest-framework
+    - flask
+    - cherrypy
+    - pyramid
+    - Tkinter 
+    - kivy
+    - Kivmd
+    - qtpy
+    - pyside
+    - pygame
+    - beautiful soup
+    - python-telegram-bot
+    - Telebot
+    - others.
