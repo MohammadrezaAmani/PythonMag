@@ -125,4 +125,4 @@ print("""*   *   ***   *   *   ***   *   *  *   *   ***   ****   ****   *****  *
 
 نوشته شده با :heart: توسط [Mohammadreza Amani](https://github.com/MohammadrezaAmani)
     
-   قبلی  - بعدی 
+   [قبلی](./1-1-Hello-world.md) | [بعدی](./1-2-variables.md) 
