@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------
 - ۱-۱: [هلو، ورد! (Hello, World!)](./chapter-1/1-1-Hello-world.md)
 - ۱-۲: [متغییرها (Variables)](./chapter-1/1-2-variables.md)
-- ۱-۳: اعداد (Numbers)
+- ۱-۳: [اعداد (Numbers)](./chapter-1/1-3-numbers.md)
 - ۱-۴: رشته‌ها (Strings)
 - ۱-۵: درست و نادرست (Boleans)
 - ۱-۴ عملگرها (operators)
