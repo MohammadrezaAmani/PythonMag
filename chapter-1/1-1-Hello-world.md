@@ -1,5 +1,5 @@
 ## فصل ۱ آموزک ۱: سلام دنیا! :hand:
-```
+``` python
 print('Hello, World!')
 ```
 `>>> Hello, World!`
@@ -16,13 +16,13 @@ print('Hello, World!')
 برای درک بهتر لطفا کد ادیتورتون رو باز کنید و یک فایل جدید پایتون بسازید و دستورات زیر رو داخلش اجرا کنید.
 
 مثلا می‌خواییم LinkinPark رو در خروجی نمایش بدیم.
-```
+``` python
 print('LinkinPark')
 ```
 `>>> LinkinPark`
 
 یا برای نمایش salam man Mohammadreza amani hastam باید به شکل زیر عمل بشه:
-```
+``` python
 print('salam man Mohammadreza amani hastam')
 ```
 `>>> salam man Mohammadreza amani hastam`
@@ -44,7 +44,7 @@ print('salam man Mohammadreza amani hastam')
 `print('Hi, I'm Mohammadreza.')`
 
 
-``` 
+``` python
 >>> File "<stdin>", line 1
     print('Hi, I'm Mohammadreza.')
                  ^
@@ -63,7 +63,7 @@ SyntaxError: invalid syntax
 یکی دیگه از مواردی که کمی کار رو سخت‌ می‌کرد در برنامه نویسی رفتن به خط بعدی بود. 
 یعنی شما اگر می‌خواستید متن 
 
-```
+``` python
 Hi, I'm Mohammadreza.
 Have a nice day!
 ```
@@ -72,7 +72,7 @@ Have a nice day!
 
 `print('Hi, I'm Mohammadreza.\nHave a nice day!')‍`
 
-```
+``` python
 >>> Hi, I'm Mohammadreza.
 Have a nice day!
 ```
@@ -81,19 +81,21 @@ Have a nice day!
 
 
 ولی خب با استفاده از  ‍`'''` و `"""` دیگه نیازی به رعایت این سینتکس ندارید و میتونید به هرچقدر خط پایین تر که نیاز دارید برید و جملتون رو کامل کنید و پایتون عین ورودیتون رو در خروجی نشون خواهد داد.
-```
+``` python
 print("""Hi, I'm Mohammadreza.
 Have a nice day!""")‍
 ```
 
-```
+``` python
 >>> Hi, I'm Mohammadreza.
 Have a nice day!
 ```
 البته گفتن این نکته هم حائز اهمیت هست که برای چاپ اعداد نیازی به استفاده از کوتیشین ها نیست و میتونین اون‌ها رو به شکل مستقیم چاپ کنید. 
 مثلا:
 
-```print(1401)```
+``` python
+print(1401)
+```
 
 `>>> 1401`
 
@@ -106,7 +108,7 @@ Have a nice day!
 
 مثلا برای من که این شکلی میشه:
 
-```
+``` python
 print("""*   *   ***   *   *   ***   *   *  *   *   ***   ****   ****   *****  *****   *** 
 ** **  *   *  *   *  *   *  ** **  ** **  *   *  *   *  *   *  *         *   *   *
 * * *  *   *  *****  *****  * * *  * * *  *****  *   *  ****   *****    *    *****
@@ -114,7 +116,7 @@ print("""*   *   ***   *   *   ***   *   *  *   *   ***   ****   ****   *****  *
 *   *   ***   *   *  *   *  *   *  *   *  *   *  ****   *   *  *****  *****  *   *""")
 ```
 
-```
+``` python
 >>> *   *   ***   *   *   ***   *   *  *   *   ***   ****   ****   *****  *****   *** 
     ** **  *   *  *   *  *   *  ** **  ** **  *   *  *   *  *   *  *         *   *   *
     * * *  *   *  *****  *****  * * *  * * *  *****  *   *  ****   *****    *    *****
